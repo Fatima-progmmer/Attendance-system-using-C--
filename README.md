@@ -1,5 +1,5 @@
 
-# 🏫 Attendance System using C#
+# 🏫 Attendance System using C++
 
 This project is a **simple and efficient attendance system** developed in **C#** to manage student or employee attendance records. It provides an easy-to-use interface for marking attendance, storing records, and generating reports.
 
